@@ -1,0 +1,9 @@
+{
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "tailwindCSS.experimental.configVersion": "4",
+  "files.associations": {
+    "**/globals.css": "plaintext"
+  }
+}
